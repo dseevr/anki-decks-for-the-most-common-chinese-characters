@@ -2,4 +2,4 @@ source "https://rubygems.org"
 
 gem "anki", "0.0.4"
 gem "tradsim", "0.5.1"
-gem "nokogiri", "1.13.5"
+gem "nokogiri", "1.13.6"
